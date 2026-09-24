@@ -1,0 +1,61 @@
+authority/reviewed-release-descriptors.json
+  s_7ff9749a779ebe::t_382771995c416f 1-16
+index.html
+  s_7ff9749a779ebe::t_9ff52afd18f5a7 1-22
+input-authority.json
+  s_7ff9749a779ebe::t_56a22ec96f321a 1-54
+README.md
+  s_7ff9749a779ebe::t_9ff52afd18f5a7 1-11
+.github/workflows/deploy.yml
+  s_7ff9749a779ebe::t_9ff52afd18f5a7 1-84
+tools/configure.py
+  s_7ff9749a779ebe::t_9ff52afd18f5a7 1-148
+tools/test_prepare.py
+  s_7ff9749a779ebe::t_9ff52afd18f5a7 1-310
+.gitignore
+  s_7ff9749a779ebe::t_8a8c7e83fdf0c4 1-2
+authority/preserved-release-original.json
+  s_7ff9749a779ebe::t_44c0d16407fc32 1
+authority/preserved-source-commit-original.json
+  s_7ff9749a779ebe::t_7bb2e90b67cc4b 1
+authority/preserved-tag-original.json
+  s_7ff9749a779ebe::t_5065507538e18a 1
+authority/preserved-tag-ref-original.json
+  s_7ff9749a779ebe::t_0aec4c347c24df 1
+metadata/v0.98.0/distribution.zip.sha256
+  s_7ff9749a779ebe::t_0bf8860b8803cc 1
+metadata/v0.98.0/manifest.json
+  s_7ff9749a779ebe::t_964823af2771d5 1-5629
+metadata/v0.98.0/release.json
+  s_7ff9749a779ebe::t_88e44230721797 1-10
+metadata/v0.98.0/source-qualification.json
+  s_7ff9749a779ebe::t_8e9f390822fa72 1-431
+metadata/v0.98.0/test-policy.json
+  s_7ff9749a779ebe::t_e9142a7bf5bbca 1-8
+releases/index.html
+  s_7ff9749a779ebe::t_4fa2907be72a84 1-16
+tools/prepare.py
+  s_7ff9749a779ebe::t_8779a2b0a593e7 1-93
+tools/qualification_v2.py
+  s_7ff9749a779ebe::t_6dcb14778771dd 1-113
+tools/test_verify.py
+  s_7ff9749a779ebe::t_a8a09cb52fe1d9 1-49
+tools/verify.py
+  s_7ff9749a779ebe::t_8a060c55a3a719 1-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1e1454bf54dd3f621011eb29e27ed8bb07831f25",
+  "prompts": {},
+  "sessions": {
+    "s_7ff9749a779ebe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b9ef-0646-7b22-8fb4-006e734dce4a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Oleksandr Mekhovov <oleksandr.mekhovov@coupa.com>"
+    }
+  }
+}
